@@ -1,1 +1,29 @@
-[{"title":"GitHub and Codex Workflow","category":"Architecture","summary":"Use GitHub as source of truth with isolated branches and PRs.","tags":["GitHub","Codex"]}]
+[
+  {
+    "title": "GitHub and Codex Workflow",
+    "category": "Architecture",
+    "summary": "Use GitHub as source of truth with isolated branches and PRs.",
+    "tags": ["GitHub", "Codex"]
+  },
+  {
+    "title": "DELSA AI Delivery Protocol Analysis",
+    "category": "DELSA AI Governance",
+    "summary": "Analysis of the DELSA AI Delivery Protocol as an enterprise AI-driven software delivery operating system, moving beyond prompt engineering into AI process engineering.",
+    "tags": ["DELSA", "AI Governance", "Delivery Protocol", "Architecture", "Codex"],
+    "keyInsights": [
+      "DELSA is evolving from prompt engineering into AI process engineering.",
+      "The protocol is system-centric rather than feature-centric.",
+      "Repository-first behavior prevents architectural drift.",
+      "System Awareness Layer forces impact analysis across Jafam domains.",
+      "The manifest can evolve into a machine-readable AI constitution."
+    ],
+    "guardsToAdd": [
+      "Integration Guard",
+      "Migration Guard",
+      "Observability Guard",
+      "Performance Guard",
+      "AI Autonomy Level"
+    ],
+    "strategicConclusion": "DELSA can become an enterprise AI delivery framework where AI agents follow explicit architecture, workflow, role, encoding, performance, migration, and observability policies before producing code."
+  }
+]
